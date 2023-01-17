@@ -80,5 +80,8 @@
     "power-assert": "1.6.1",
     "prettier": "2.7.1",
     "typescript": "4.5.2"
-  }
+  },
+  "engines": {
+    "node": ">=16"
+  } 
 }
